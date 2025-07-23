@@ -1,4 +1,4 @@
-# TELECOM-CUSTOMER-CHURN-ANALYSIS
+# TELECOM CUSTOMER CHURN ANALYSIS
 
 ## 🌟Excited to Share My Latest Project: Telecom Customer Churn Analysis! 🚀
 
